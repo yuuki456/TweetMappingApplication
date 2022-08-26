@@ -2,7 +2,7 @@
 from cProfile import label
 from email.policy import default
 from re import L
-import tk
+import thinker
 import turtle
 from turtle import distance, width
 import streamlit as st 
