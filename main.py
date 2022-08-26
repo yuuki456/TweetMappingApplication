@@ -2,13 +2,13 @@
 from cProfile import label
 from email.policy import default
 from re import L
+import tk
+import turtle
 from turtle import distance, width
 import streamlit as st 
 import pytz
 import folium
 from streamlit_folium import folium_static
-import tk
-import turtle
 
 # webデザインを作成する
 text = st.subheader('ツイートマッピングアプリケーション(Tweet Mapping Application)')
