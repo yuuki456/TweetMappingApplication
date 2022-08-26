@@ -7,6 +7,8 @@ import streamlit as st
 import pytz
 import folium
 from streamlit_folium import folium_static
+import tk
+import turtle
 
 # webデザインを作成する
 text = st.subheader('ツイートマッピングアプリケーション(Tweet Mapping Application)')
