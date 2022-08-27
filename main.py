@@ -2,7 +2,6 @@
 from cProfile import label
 from email.policy import default
 from re import L
-from turtle import distance, width
 import streamlit as st 
 import pytz
 import folium
